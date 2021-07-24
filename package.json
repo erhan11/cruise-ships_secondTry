@@ -1,0 +1,22 @@
+{
+  "name": "cruise-ships_secondtry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crusise-ships.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erhan11/cruise-ships_secondTry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erhan11/cruise-ships_secondTry/issues"
+  },
+  "homepage": "https://github.com/erhan11/cruise-ships_secondTry#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
